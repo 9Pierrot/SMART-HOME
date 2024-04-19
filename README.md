@@ -1,4 +1,7 @@
 # SMART HOME
+
+![image_maison_copilot.jpeg](images/image_maison_copilot.jpeg)
+
 ## DOCUMENTATION DU PROJET SMART-HOME RÉALISER PAR LES ETUDIANTS D'ESEO2-TOGO 
 
 ce projet à éte réaliser par :
