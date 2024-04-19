@@ -3,7 +3,7 @@
 
 ce projet à éte réaliser par :
 * ATADEGNON KODJO PIERRE : Kpatadegnon@gmail.com
-* AWENA PIRENA ODETTE :
+* AWENA PIRENA ODETTE : awenaodette28@gmail.com
 * GNASSINBGE EMILIE
 * LEENAERTS LOIC HARRY :
 * MEGUIDA ADEBAYO MOURAD :
