@@ -114,18 +114,13 @@ Plusieurs protocoles de communication sont couramment utilisés dans les smart h
 
 ## 2.b. Analyse technique
 
-* Circuit de l'éclairage
-  
-   ![circuit_eclairage_et_securite](https://github.com/9Pierrot/SMART-HOME/assets/162814424/e0c3339b-04e2-4222-b83b-793014a86514)
-  
-* circuit de vérouillage et déverouillage automatique des portes
-  
-  ![circuit_lcd_rfid_keypad](https://github.com/9Pierrot/SMART-HOME/assets/162814424/be21e3bc-9e3d-4c97-8814-9fde4eec9c5f)
-
-* Code utilisée pour les différentes parties de la maison
-
   
 ### 2.b.1. CONFORT PERSONNALISÉ ET SCÉNARIOS AUTOMATISÉS DE NOTRE SMART HOME 
+
+* Déverrouillant automatiquement les portes pour les occupants autorisés et en alertant le  propriétaire en cas de tentative d'intrusion.
+  
+ ![circuit_lcd_rfid_keypad](https://github.com/9Pierrot/SMART-HOME/assets/162814424/be21e3bc-9e3d-4c97-8814-9fde4eec9c5f)
+  
  * Régulation pièce par pièce
 
 La régulation pièce par pièce est une caractéristique clé des smart homes, permettant d'adapter les conditions de chaque espace en fonction des préférences et des besoins des occupants. Cette personnalisation se traduit par un confort accru et une meilleure efficacité énergétique.
@@ -150,6 +145,10 @@ Avantages : Permettent d'allumer ou d'éteindre automatiquement les lumières et
 4. Éclairages Intelligents
 Fonction : Ajuste la luminosité et la couleur de l'éclairage en fonction de l'heure de la journée, des préférences des occupants et de la lumière naturelle disponible.
 Avantages : Améliorer le confort visuel et l'ambiance des pièces, tout en optimisant l'utilisation de l'énergie.
+
+* Circuit de l'éclairage
+  
+   ![circuit_eclairage_et_securite](https://github.com/9Pierrot/SMART-HOME/assets/162814424/e0c3339b-04e2-4222-b83b-793014a86514)
 
 5. Stores et Volets Automatisés
 Fonction : Régulent l'entrée de lumière naturelle et la température en ajustant automatiquement les stores ou les volets.
