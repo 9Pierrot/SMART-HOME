@@ -91,7 +91,7 @@ La reconnaissance faciale est une autre application de l’IA qui contribue à r
    * Surveillance : Cette technologie peut également être intégrée aux systèmes de surveillance pour suivre les mouvements des occupants et détecter les activités suspectes.
      
 ### 2.4.  Réseau de Communication
-   * Les smart home dépendent fortement des réseaux de communication pour assurer la connectivité entre les différents appareils et systèmes. Ces réseaux permettent le contrôle à distance, la surveillance en temps réel et l'automatisation des tâches. Voici un aperçu des protocoles utilisés et de la sécurité des communications dans les smart homes.
+Les smart home dépendent fortement des réseaux de communication pour assurer la connectivité entre les différents appareils et systèmes. Ces réseaux permettent le contrôle à distance, la surveillance en temps réel et l'automatisation des tâches. Voici un aperçu des protocoles utilisés et de la sécurité des communications dans les smart homes.
 
 ### 2.5.  Protocoles utilisés :
 
@@ -117,9 +117,15 @@ Plusieurs protocoles de communication sont couramment utilisés dans les smart h
 * Circuit de l'éclairage
   
    ![circuit_eclairage_et_securite](https://github.com/9Pierrot/SMART-HOME/assets/162814424/e0c3339b-04e2-4222-b83b-793014a86514)
+  
+* circuit de vérouillage et déverouillage automatique des portes
+  
+  ![circuit_lcd_rfid_keypad](https://github.com/9Pierrot/SMART-HOME/assets/162814424/be21e3bc-9e3d-4c97-8814-9fde4eec9c5f)
 
+* Code utilisée pour les différentes parties de la maison
 
-### CONFORT PERSONNALISÉ ET SCÉNARIOS AUTOMATISÉS DE NOTRE SMART HOME 
+  
+### 2.b.1. CONFORT PERSONNALISÉ ET SCÉNARIOS AUTOMATISÉS DE NOTRE SMART HOME 
  * Régulation pièce par pièce
 
 La régulation pièce par pièce est une caractéristique clé des smart homes, permettant d'adapter les conditions de chaque espace en fonction des préférences et des besoins des occupants. Cette personnalisation se traduit par un confort accru et une meilleure efficacité énergétique.
