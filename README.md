@@ -145,9 +145,13 @@ grâce au capteur ACS712 .
 
 ### 2.b.3.Contrôle à distance 
 
-* Fonctionnalité : Permet aux occupants de la maison de surveiller toute les parties ainsi que les différentes fonctionnalités de la maison ; on n’a utilisé une ESP32  pour le contrôle à distance de toute les parties de la maison 
-* Bénéfices : Contrôle de la distribution d'électricité par Internet via un site ou une application.. Économie d'énergie en éteignant les appareils inutilisés. Envoi de notifications en cas de consommation anormale et recommandations pour la régulation.
+* Fonctionnalité : Permet aux occupants de la maison de surveiller et contrôler à distance toutes les parties de la maison  depuis leur téléphones ou leur ordinateur . On n’a utilisé une ESP32  pour le contrôle à distance de toutes les parties de la maison . Pour cela un sit web   “SMART HOME” à été réaliser à cet effet 
 
+* Bénéfices : Contrôle de la distribution d'électricité par Internet via un site ou une application.. Économie d'énergie en éteignant les appareils inutilisés. Envoi de notifications en cas de consommation anormale et recommandations pour la régulation.
+  
+* Site web de la maison
+  
+![interface_sh](https://github.com/9Pierrot/SMART-HOME/assets/162814424/b0619bb5-c7fd-4d16-99da-00b95ea00b48)
 
 
 
