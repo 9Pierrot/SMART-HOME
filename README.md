@@ -140,7 +140,11 @@ Avantages : Économise de l'énergie et sécurise la maison en l'absence des occ
 grâce au capteur ACS712 .
 * Bénéfices : Permet aux occupants de surveiller leur consommation d'énergie et d'identifier les appareils les plus énergivores.
 
-* L'analyse des habitudes de consommation est gérer par un code fait grâce à Arduino 
+* L'analyse des habitudes de consommation est gérer par un code fait grâce à Arduino
+  
+* Montage du circuit pour la gestion d'énergie
+  
+  ![Capture d'écran 2024-06-10 214352](https://github.com/9Pierrot/SMART-HOME/assets/162814424/d187c57c-56f3-4daf-9c93-17b6b3630f68)
 
 
 ### 2.b.3.Contrôle à distance 
