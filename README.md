@@ -116,6 +116,10 @@ Avantages : Permettent un contrôle précis de la température et de l'humidité
 Fonction : Détectent la présence ou l'absence des occupants dans une pièce.
 Avantages : Permettent d'allumer ou d'éteindre automatiquement les lumières et autres appareils, réduisant ainsi la consommation d'énergie inutile.
 
+3. Capteurs de gaz et flamme
+Fonction : Détectent la présence de fummée  
+Avantages : Permettent de détecter les débuts d'incendie dans toutes les pieces de la maison
+
 * Circuit de l'éclairage
   
    ![circuit_eclairage_et_securite](https://github.com/9Pierrot/SMART-HOME/assets/162814424/e0c3339b-04e2-4222-b83b-793014a86514)
@@ -154,7 +158,7 @@ grâce au capteur ACS712 .
 * Bénéfices : Contrôle de la distribution d'électricité par Internet via un site ou une application.. Économie d'énergie en éteignant les appareils inutilisés. Envoi de notifications en cas de consommation anormale et recommandations pour la régulation.
   
 * Site web de la maison
-  
+  Qui permet à l'utilisateur d'avoir accés a toutes les parties de la maisons  
 ![interface_sh](https://github.com/9Pierrot/SMART-HOME/assets/162814424/b0619bb5-c7fd-4d16-99da-00b95ea00b48)
 
 
